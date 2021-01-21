@@ -1,5 +1,8 @@
 # Product Group Running Agenda & Notes
 
+[![hackmd-github-sync-badge](https://hackmd.io/NX9nH53nTk6u03pz6Hd7tA/badge)](https://hackmd.io/NX9nH53nTk6u03pz6Hd7tA)
+
+
 ### January 13th, 2021 - NEW TIME 5pm Wednesdays (same time as biweekly)
 * Intro of new members:
 * * Organisational: Inform about new schedule, Hackmd and Github repo
