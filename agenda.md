@@ -3,6 +3,89 @@
 [![hackmd-github-sync-badge](https://hackmd.io/NX9nH53nTk6u03pz6Hd7tA/badge)](https://hackmd.io/NX9nH53nTk6u03pz6Hd7tA)
 
 
+### February 10th, 2021
+* Ecosystem Updates
+    * DIF at large
+    * Events & Conferences
+    * Legal/Regulatory
+    * Other
+        * WHO at ID2020 about the "Good Health Pass collaborative": https://www.goodhealthpass.org/?mc_cid=b41bb8ab4e&mc_eid=7325459cd6
+        * Lissi wallet now available in 12 languages: https://lissi-id.medium.com/the-lissi-wallet-is-now-available-in-12-languages-f88e56b04e19
+* Round robin intros, perspective/interest in key management
+* Key management discussion
+    * (Build a list of questions together)
+        * What is the "State of the art" in terms of key management? 
+            * For end users 
+            * What are enterprise best practices for key management today? "tactical use" 
+                * Decades-old solutions already in place - HSM
+                    * Enterprise intergrations with webKMS and hardware solutions 
+                    * In some ways this is simpler than end user case, lower education delta
+        * What are alternatives to single points of failure for key backup and use? 
+            * Options may include:
+                * Multi-sig 
+                * Social recovery
+                * Early stage - "fuzzy" ecryption
+                    * https://medium.com/decentralized-identity/dif-id-wg-starting-work-on-cryptographic-secret-recovery-204117b6a2ab
+        * What is the relationship to existing patterns...
+            * End users: Digital literacy and access
+            * Business: Digital transformation
+
+        * What are the foundational design principles for an effective "SSI" solution?
+
+    * E.g. 
+        * Why are we talking about keys? 
+        * What options exist today for key management?
+        * What are the different business and technical considerations of each approach?
+        * ...
+
+Notes:
+    * Uganda, concerns about auditability ... how do I know that this person is in this organization?
+        * Designated signing parties, double signers 
+        
+* Discussion of key core principles (Rouven)
+    * Key management across various devices 
+    * Complexity of key management 
+    * Defining rules for updating keys 
+    * What are the combination of techniques we can leverage? 
+    * Levers/ questions:
+        * Where is private key material stored?
+        * Who is responsible for storing it?
+        * What is the "job" of the key and how much do we invest in securing / recovering it as a result? 
+
+* Save last 10 mins for picking our next discussion topic - > Key management for Individuals
+    * Visit Our mindmap for a visual protocol of our discussions: https://whimsical.com/dif-product-manager-topics-GTPeiBy3qQ7DBNTSqDZiZ5
+
+
+
+
+
+
+### January 27th, 2021
+* Member intros and re-intros
+* Ecosystem Updates
+
+        * DID usage for tranditional login: https://docs.magic.link/decentralized-id
+        * IDunion applies for funding for the next three years. www.idunion.org
+        * Finema: New projects in Thailand, recommendation of VCs in Thai langauge, use-cases from the public administration. 
+
+* Main topic today: Product Manager Meetings 2021
+    * Why are we here? (objectives/reason for gathering)
+    * Proposed topics for upcoming meetings
+    * Find the topics below as mindmap here: https://mm.tt/1762189321?t=Tm5NG5A0mY
+        * Credentials management in wallets
+            * Proof request -> use doesn't have suitable credential -> how to continue? Discovering where to get the credential in questions
+            * Proof request UI: optional and required attributes; Multiple credenitals as answer -> How to illustrate this proof request UI?  
+        * How to recognize / discover SSI-enabled services -> use case overview!
+        * Consent management from holders and businesses point of view.
+        * How to communicate trust (of credentials, issuers) to users; Initial trust; 
+        * SSI and regulations
+        * Multi-language interpretation for schema attributes, applications and concepts. 
+        * Visualising our ecosystem: Networks, Business agents, end-user agents, 
+        * Building a roadmap for decentralized Identity, where are we now? and where will we be in 2 or 5 years?
+        * Key management and Backup-strategies: end-user and enterprise perspective 
+    * Facilitators & Presenters 
+
+
 ### January 13th, 2021 - NEW TIME 5pm Wednesdays (same time as biweekly)
 * Intro of new members:
 * * Organisational: Inform about new schedule, Hackmd and Github repo
