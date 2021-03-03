@@ -2,8 +2,31 @@
 
 [![hackmd-github-sync-badge](https://hackmd.io/NX9nH53nTk6u03pz6Hd7tA/badge)](https://hackmd.io/NX9nH53nTk6u03pz6Hd7tA)
 
+Group Resources: (keep at top)
+* [Zoom Link](https://us02web.zoom.us/j/81146782438?pwd=a2lha1hDTzUya3AwRWZrbEc0UnRzZz09)
+* [Recordings of past meetings ](https://docs.google.com/spreadsheets/d/1wgccmMvIImx30qVE9GhRKWWv3vmL2ZyUauuKx3IfRmA/edit#gid=1814264495)
+
+
+### February 24th, 2021
+* [Recording](https://us02web.zoom.us/rec/share/adO2KOAGpjtDf5l2oulQQalee1T4ukWX7W5lCDVWb_1z0j9Gv1kte4XLhUZILvov._Mg4EQrDqOWHVAUN)
+* Ecosystem Updates
+    * DIF at large
+        * New working group: Wallet Security / Secure Wallet 
+            * https://docs.google.com/document/d/18H2hVjHZEBjbnzod8tLogJIEzySdecbk9d-QBJaqHP0/edit
+            * To get invite to monday meeting: https://forms.gle/t6wDnipR2md3WWKj7
+    * Events & Conferences
+    * Legal/Regulatory
+    * Other
+
+* Key Management (part 2)
+    * From last session: https://whimsical.com/dif-product-manager-topics-GTPeiBy3qQ7DBNTSqDZiZ5
+    * Focus on individuals (B2C) 
+    * Key management principles (cont)
+    
+* Topic for next meeting
 
 ### February 10th, 2021
+* [Recording](https://us02web.zoom.us/rec/share/aaupN0KGugfCQovfcl2RoxcM3vMlFVhmyuN7OClbvXumXlveP2UVDjux2FQmJxfv.tQ-DE6xxKO1f4gKK)
 * Ecosystem Updates
     * DIF at large
     * Events & Conferences
@@ -64,14 +87,14 @@ Notes:
 * Member intros and re-intros
 * Ecosystem Updates
 
-        * DID usage for tranditional login: https://docs.magic.link/decentralized-id
-        * IDunion applies for funding for the next three years. www.idunion.org
+        * DID usage for traditional login: [https://docs.magic.link/decentralized-id](https://docs.magic.link/decentralized-id)
+        * IDunion applies for funding for the next three years. [www.idunion.org](www.idunion.org)
         * Finema: New projects in Thailand, recommendation of VCs in Thai langauge, use-cases from the public administration. 
 
 * Main topic today: Product Manager Meetings 2021
     * Why are we here? (objectives/reason for gathering)
     * Proposed topics for upcoming meetings
-    * Find the topics below as mindmap here: https://mm.tt/1762189321?t=Tm5NG5A0mY
+    * Find the topics below as mindmap here: [https://mm.tt/1762189321?t=Tm5NG5A0mY](https://mm.tt/1762189321?t=Tm5NG5A0mY)
         * Credentials management in wallets
             * Proof request -> use doesn't have suitable credential -> how to continue? Discovering where to get the credential in questions
             * Proof request UI: optional and required attributes; Multiple credenitals as answer -> How to illustrate this proof request UI?  
