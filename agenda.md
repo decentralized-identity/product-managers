@@ -7,6 +7,21 @@ Group Resources: (keep at top)
 * [Recordings of past meetings ](https://docs.google.com/spreadsheets/d/1wgccmMvIImx30qVE9GhRKWWv3vmL2ZyUauuKx3IfRmA/edit#gid=1814264495)
 
 
+### March 10th, 2021
+* New member intros
+* Ecosystem updates
+    * DIF at large
+        * New working group: Wallet Security / Secure Wallet 
+            * https://docs.google.com/document/d/18H2hVjHZEBjbnzod8tLogJIEzySdecbk9d-QBJaqHP0/edit
+            * To get invite to monday meeting: https://forms.gle/t6wDnipR2md3WWKj7
+    * Events & Conferences
+    * Legal/Regulatory
+    * Other
+* Demos & discussion
+    * GlobaliD
+    * Serto
+
+
 ### February 24th, 2021
 * [Recording](https://us02web.zoom.us/rec/share/adO2KOAGpjtDf5l2oulQQalee1T4ukWX7W5lCDVWb_1z0j9Gv1kte4XLhUZILvov._Mg4EQrDqOWHVAUN)
 * Ecosystem Updates
