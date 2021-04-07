@@ -6,6 +6,40 @@ Group Resources: (keep at top)
 * [Zoom Link](https://us02web.zoom.us/j/81146782438?pwd=a2lha1hDTzUya3AwRWZrbEc0UnRzZz09)
 * [Recordings of past meetings ](https://docs.google.com/spreadsheets/d/1wgccmMvIImx30qVE9GhRKWWv3vmL2ZyUauuKx3IfRmA/edit#gid=1814264495)
 
+### April  7th, 2021
+* New member intros 
+* Ecosystem updates
+    * DIF
+        * Wallet security group finding co-chairs 
+        * DIF Steering committee nominations coming up
+        * Industry-specific working groups 
+            * Healthcare (Spherity - dormant temporarily) 
+            * Banking / Finance (Bloom and Onespan
+            * Travel and Hospitality (industry groups - coming soon)
+            * Business use cases - non IRP protected
+    * IIW
+        * Several group members are attending
+        * Mention of BBS+: https://w3c-ccg.github.io/ldp-bbs2020/ 
+* Housekeeping: Next session cancelled
+* Demo/ discussion: Workday 
+
+
+### March 24th, 2021
+* New member intros
+* Ecosystem updates
+    * DIF at large
+        * New working group: Wallet Security / Secure Wallet
+https://docs.google.com/document/d/18H2hVjHZEBjbnzod8tLogJIEzySdecbk9d-QBJaqHP0/edit
+    * Events & conferences 
+        * GS1 US Digital Innovation Conference (March 30th / sign up by March 26th) [Details]
+        (https://web.cvent.com/event/5c5e5d0e-08b5-49f9-8f5e-c115c031b729/summary)
+    * Legal/regulatory
+    * Other
+        * DHS SVIP Interoperability update (10 mins) 
+            * [Deck](https://docs.google.com/presentation/d/1MeeP7vDXb9CpSBfjTybYbo8qJfrrbrXCSJa0DklNe2k/edit#slide=id.p1)
+            * [Transmute post](https://medium.com/transmute-techtalk/interoperability-is-not-a-choice-387d57c6dc32)
+* Demos
+* Upcoming sessions 
 
 ### March 10th, 2021
 * New member intros
