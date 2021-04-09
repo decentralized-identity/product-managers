@@ -7,6 +7,7 @@ Group Resources: (keep at top)
 * [Recordings of past meetings ](https://docs.google.com/spreadsheets/d/1wgccmMvIImx30qVE9GhRKWWv3vmL2ZyUauuKx3IfRmA/edit#gid=1814264495)
 
 ### April  7th, 2021
+* [Recording](https://us02web.zoom.us/rec/share/ccyZuFAmEH9Gc-rAKSfEv-0kU9yW9CtedL8X17Sj79v8jmYDj6xlusxE4wJBDk31.PKyZm_bOFStSXRIo)
 * New member intros 
 * Ecosystem updates
     * DIF
@@ -25,6 +26,7 @@ Group Resources: (keep at top)
 
 
 ### March 24th, 2021
+* [Recording](https://us02web.zoom.us/rec/share/bpIB8-uN8YN-Di8kdsSMiDRTGRXcqH2heJSkZcOo8MmuUXrfgX2LhEPl5yBZXrCR.tAO36RygARprNRIm)
 * New member intros
 * Ecosystem updates
     * DIF at large
@@ -42,6 +44,7 @@ https://docs.google.com/document/d/18H2hVjHZEBjbnzod8tLogJIEzySdecbk9d-QBJaqHP0/
 * Upcoming sessions 
 
 ### March 10th, 2021
+* [Recording](https://us02web.zoom.us/rec/share/1eAUw19m9RAzk23doPrIHYbOmF1WYgt3DuM_82DLNctFE5QwS7w0wB0PRM7n69hC.u5gRKg__RlrbvL9Z)
 * New member intros
 * Ecosystem updates
     * DIF at large
