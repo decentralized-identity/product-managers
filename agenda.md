@@ -3,8 +3,23 @@
 [![hackmd-github-sync-badge](https://hackmd.io/NX9nH53nTk6u03pz6Hd7tA/badge)](https://hackmd.io/NX9nH53nTk6u03pz6Hd7tA)
 
 Group Resources: (keep at top)
-* [Zoom Link](https://us02web.zoom.us/j/81146782438?pwd=a2lha1hDTzUya3AwRWZrbEc0UnRzZz09)
+* [Zoom Link](https://us02web.zoom.us/j/85757483665?pwd=d2E3Y0lTVnVja3Nxcmc2d01WVGJ1dz09)
 * [Recordings of past meetings ](https://docs.google.com/spreadsheets/d/1wgccmMvIImx30qVE9GhRKWWv3vmL2ZyUauuKx3IfRmA/edit#gid=1814264495)
+
+### May 5th, 2021
+
+Topic: Open Badges and Verifiable Credentials: how to build the ecosystem.
+
+
+Nate Otto, Kerri Lemoie, Simone Ravaioli, Kim Hamilton Duffy
+
+Nate Otto @ottonomy               notto@concentricsky.com
+Kerri Lemoie @kayaelle             klemoie@concentricsky.com
+Simone Ravaioli @psykoreactor     simone.ravaioli@digitary.net 
+Kim Hamilton Duffy @kimdhamilton kimhd@mit.edu
+
+
+Slides: https://docs.google.com/presentation/d/1Cy2hpQ78EqoF00QWPV_RDAH4A5mh9gMyiV2AZJKKlIM/edit?usp=sharing
 
 ### April  7th, 2021
 * [Recording](https://us02web.zoom.us/rec/share/ccyZuFAmEH9Gc-rAKSfEv-0kU9yW9CtedL8X17Sj79v8jmYDj6xlusxE4wJBDk31.PKyZm_bOFStSXRIo)
