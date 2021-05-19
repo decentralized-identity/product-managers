@@ -8,6 +8,55 @@ Group Resources: (keep at top)
 
 ### May 5th, 2021
 
+* Group discussion about common challenges, proposed discussions for upcoming weeks 
+
+What is the credential payload? (Keith can format presentation)
+*   Lack of common payload / schemas - a human problem! 
+* 	Ask for and receive credentials in a standardized way 
+* 	Gaps with schema.org — > required vs. optional fields 
+* 	Presentations requests etc.
+* 	Who is qualified to issue this?  Who is the issuer 
+
+Usability demos + conversations
+* Demo day - potential ideas 
+* E-status wallet 
+* Microsoft Authenticator 
+* Workday wallet 
+
+
+How do we make wallets accessible to everyone? 
+* Edge agents, wallets on phones driving solutions 
+* Identity for everybody: may not have a smart phone 
+* How authenticate into a service
+* Discussion of web wallets - mention of secure wallet working group, connection to European security standards (German identity requirements, for example)
+
+
+How do I trust the issuer? 
+* Trust frameworks across entities 
+* Which types of issuers - Nations and global corporates 
+* Different types of credentials with variety of trust needs 
+* Liability question: who do I go after if this is not the company that I think it is? 
+
+
+What do interoperable ecosystems look like?
+* DIF interoperability working group 
+* Thinking about breaking into pieces 
+* Consider connections to privacy conversations - Holder DIDs on BC, GDPR 
+    * Cloud Act (Europe) -- implications for banking sector but not only( data sharing) 
+    * Approved cryptographic curves 
+
+
+Business Models for Respective Markets 
+* Who pays and who plays?
+
+* Presentations/ discussions for upcoming sessions
+    * June 2nd - Payloads/ schemas
+    * June 16th - Wallet demos & accessibility discussion 
+    * June 30th - Wallets pt. 2 or Trusted Issuers 
+
+
+### May 5th, 2021
+
 Topic: Open Badges and Verifiable Credentials: how to build the ecosystem.
 
 
