@@ -6,7 +6,19 @@ Group Resources: (keep at top)
 * [Zoom Link](https://us02web.zoom.us/j/85757483665?pwd=d2E3Y0lTVnVja3Nxcmc2d01WVGJ1dz09)
 * [Recordings of past meetings ](https://docs.google.com/spreadsheets/d/1wgccmMvIImx30qVE9GhRKWWv3vmL2ZyUauuKx3IfRmA/edit#gid=1814264495)
 
-### May 5th, 2021
+### June 2nd, 2021
+* New member intros
+* Ecosystem updates
+    * DIF at large
+    * Events & Conferences
+    * Legal/Regulatory
+    * Other
+* Credential payloads discussion
+    * [Slides](https://github.com/decentralized-identity/product-managers/files/6607771/DIF.PM.Update.June.21.pdf) and [Recording](https://us02web.zoom.us/rec/share/wnkcrIpwjA_fqUdTjSdi-AxquhjEpkRl_aYr4KOgnRGuyD4FfBraMRwBTk5SliPc.4NoaZNFIxICZfk2b)
+* Wrap-up / next session 
+
+
+### May 26th, 2021
 
 * Group discussion about common challenges, proposed discussions for upcoming weeks 
 
