@@ -6,6 +6,32 @@ Group Resources: (keep at top)
 * [Zoom Link](https://us02web.zoom.us/j/85757483665?pwd=d2E3Y0lTVnVja3Nxcmc2d01WVGJ1dz09)
 * [Recordings of past meetings ](https://docs.google.com/spreadsheets/d/1wgccmMvIImx30qVE9GhRKWWv3vmL2ZyUauuKx3IfRmA/edit#gid=1814264495)
 
+### June 16th, 2021
+* New member intros
+* Ecosystem updates
+    * DIF at large
+    * Events & Conferences
+        * User experience in SSI potential half day un-conference: July 22nd
+            * Kaliya will share more information
+        * Open Skills Network Conference - July (https://www.openskillsnetwork.org/)
+        * ASU Digital Trust Summit today/tomorrow: https://uto.asu.edu/events/digital-trust-summit/agenda#DTS3
+
+    * Legal/Regulatory
+        * eIDAS Update: https://ec.europa.eu/info/strategy/priorities-2019-2024/europe-fit-digital-age/european-digital-identity
+    * Other
+        * Here is a link to the Good Health Pass Bluepritng + the forms for feedback. There is a whole user-experience section https://wiki.trustoverip.org/display/HOME/GHP+Blueprint+Public+Review+Process
+            * Feedback is due tomorrow 
+* Co-chairs for this group
+    * Keith Kowal will be suggested as new co-chair in the Product manager group 
+    * Add call for new contributors as well, potential to use a form as well (once or twice a year)
+* Schemas discussion / Serto Presentation
+
+* Subsequent demo options 
+    * What do VCs look like? How are there security properties understood?
+    * Potential demo from Lucas Czarnecki - credential design 
+
+
+
 ### June 2nd, 2021
 * New member intros
 * Ecosystem updates
