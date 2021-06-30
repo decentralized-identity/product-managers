@@ -6,6 +6,20 @@ Group Resources: (keep at top)
 * [Zoom Link](https://us02web.zoom.us/j/85757483665?pwd=d2E3Y0lTVnVja3Nxcmc2d01WVGJ1dz09)
 * [Recordings of past meetings ](https://docs.google.com/spreadsheets/d/1wgccmMvIImx30qVE9GhRKWWv3vmL2ZyUauuKx3IfRmA/edit#gid=1814264495)
 
+### June 30th, 2021
+* New member intros
+* Ecosystem updates
+    * DIF at large
+        * Wallet security charter defined. WG ist startin now. 
+    * Events & Conferences
+        * Kaliya: I’m super excited we have a date for the IIW Special Topic virtual 1/2 day for product managers - July 22nd. I have a special code that is 30% off for all of you in this group - www.eventbrite.com/e/159946001797/?discount=DIFUX_30
+    * Legal/Regulatory
+        * Specification of eIDAS Toolbox still early. Definition of where this toolbox will be specified seems unclear. 
+    * Other
+* Co-chairs for this group
+* Presentation by https://digit.ink 
+    * 
+
 ### June 16th, 2021
 * New member intros
 * Ecosystem updates
