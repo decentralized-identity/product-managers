@@ -1,10 +1,35 @@
-# Product Group Running Agenda & Notes
+# Product Managers' Community of Practice Running Agenda & Notes
 
 [![hackmd-github-sync-badge](https://hackmd.io/NX9nH53nTk6u03pz6Hd7tA/badge)](https://hackmd.io/NX9nH53nTk6u03pz6Hd7tA)
 
 Group Resources: (keep at top)
 * [Zoom Link](https://us02web.zoom.us/j/85757483665?pwd=d2E3Y0lTVnVja3Nxcmc2d01WVGJ1dz09)
 * [Recordings of past meetings ](https://docs.google.com/spreadsheets/d/1wgccmMvIImx30qVE9GhRKWWv3vmL2ZyUauuKx3IfRmA/edit#gid=1814264495)
+
+### Dec 30th, 2021
+
+No agenda-- social mixer? cancel meeting?
+
+### Dec 15th, 2021
+
+Guest: Evin McMullen (ConsenSys) - Serto Schemas
+
+### Nov 17th, 2021
+
+Spitballing agenda items or open-discussion topics
+- Nima K (over email): I also have limited resources, but am interested in starting a few discussions around [Personas](https://map.universal.id/personas), [User concepts/tools/artifacts](https://map.universal.id/analysis/tools), [Problems](https://map.universal.id/analysis/problems), etc. Let me know if anyone is interested.
+- what to do when there is no agenda?
+    + Nate: Even just comparing stacks or giving technical-roadmap updates and where interop or protocols fit on those roadmaps
+        + i.e. We're looking for interop partners for Q1/Q2, for example...
+    + Analyze together recent demos or launches?
+    + Chris (+Phil): CoP, spitballing space, IIW-session-style talk-around or bate-papa
+    + Customer and business "questions"
+    + Chris: Follow Finance model, with a guest/presi every OTHER meeting and looser chats the in-between meetings
+        + Alex (Affinidi) spoke at Identity Week Asia on future IAM, mostly about design challenges
+    + Barriers to attending? 
+        + New meeting time? too often, wrong time zone?
+        + Content focus?
+        + Justifying time to our respective bosses :D (Would "content calendar" and pre-scheduled speakers help?)
 
 ### June 30th, 2021
 * New member intros
