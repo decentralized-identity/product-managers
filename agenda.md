@@ -6,6 +6,14 @@ Group Resources: (keep at top)
 * [Zoom Link](https://us02web.zoom.us/j/85757483665?pwd=d2E3Y0lTVnVja3Nxcmc2d01WVGJ1dz09)
 * [Recordings of past meetings ](https://docs.google.com/spreadsheets/d/1wgccmMvIImx30qVE9GhRKWWv3vmL2ZyUauuKx3IfRmA/edit#gid=1814264495)
 
+### Parking lot for future/proposed topics
+
+- current state of [Wallet Rendering](https://github.com/decentralized-identity/wallet-rendering/pull/1), sister-spec to [Credential Manifest](https://identity.foundation/credential-manifest/#abstract)
+
+### January 13th, 2021
+
+Trinsic?
+
 ### Dec 30th, 2021
 
 No agenda-- social mixer? cancel meeting?
